@@ -1,9 +1,9 @@
 ---
-author: jegrif
+author: v-davido
 description: This topic explains data processing and protections in Dynamics 365 Fraud Protection.
-ms.author: v-jegrif
+ms.author: v-davido
 ms.service: fraud-protection
-ms.date: 09/13/2019
+ms.date: 11/07/2019
 ms.topic: conceptual
 search.app: 
   - FraudProtection
@@ -95,7 +95,7 @@ DFP uses customer data to provide tools to help customers understand how fraud i
 
 Microsoft, in providing Dynamics 365 Fraud Protection, has implemented and will maintain appropriate technical and organizational measures to protect customer data, which includes personal data. Those measures shall be set forth in a Microsoft Security Policy. Microsoft will make that policy available to customers, along with descriptions of the security controls in place for Dynamics 365 Fraud Protection, and other information reasonably requested by the customer regarding Microsoft security practices and policies. 
 
-Dynamics 365 Fraud Protection complies with, and has been successfully audited against, the requirements set forth in ISO 27001, ISO 27002, and ISO 27018.  
+Dynamics 365 Fraud Protection complies with, and has been successfully audited against, the requirements set forth in ISO 27001, ISO 27018, and SCO2.  
 
 ## Can I use DFP in compliance with my requirements? 
 
